@@ -1,4 +1,4 @@
-// import "../css/style.css";
+import "./style.css";
 
 class BookSearch {
   constructor() {
@@ -31,6 +31,7 @@ class BookSearch {
         }
         return;
       }
+
       try {
         showError = false;
         this.input.classList.remove("error");

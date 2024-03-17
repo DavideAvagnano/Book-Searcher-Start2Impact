@@ -1,0 +1,19 @@
+{
+  "name": "book-searcher",
+  "version": "1.0.0",
+  "description": "cliccando al seguente link [Test](https://davideavagnano.github.io/Book-Searcher-Start2Impact/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dist": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.10.0",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
