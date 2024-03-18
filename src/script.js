@@ -141,7 +141,7 @@ class BookSearch {
     cardContainer.appendChild(div);
 
     buttonDescription.addEventListener("click", () => {
-      this.getDescription(book.key, cardContainer);
+      this.getDescription(book.key);
     });
 
     return cardContainer;

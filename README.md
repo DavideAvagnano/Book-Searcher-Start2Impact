@@ -2,7 +2,7 @@
 
 ### Dove provarlo
 
-cliccando al seguente link [Test](https://davideavagnano.github.io/Book-Searcher-Start2Impact/)
+cliccando al seguente link [Test](https://merry-marigold-ac4a4c.netlify.app/)
 
 ### Utilizzo
 
